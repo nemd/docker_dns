@@ -1,0 +1,5 @@
+#  local-zone: "example.net." static
+
+#  local-data: "example.net. 3600 IN NS localhost."
+#  local-data: "example.net. 3600 IN SOA localhost. nobody.invalid. 1 3600 1200 604800 10800"
+#  local-data: "example.net. 3600 IN A localhost"
